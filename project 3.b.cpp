@@ -18,7 +18,7 @@ void mainMenuError();
 void convertStrings(string, float&);
 void conversionError(string);
 // end prototypes
-
+//this is a test
 
 int main()
 {
